@@ -14,7 +14,7 @@ I also have some knowledge with planning and mantaining RESTful APIs, API securi
 
 More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) 😃
 
-### What am I currently working at? 🧰
+### What am I currently working on? 🧰
 
  - A [Java library to encapsulate digital/graphical units](https://github.com/pedroter7/digital-units): recently I've worked in a few projects where dealing with units in Strings were a constant need so I decided that I would write a small library to make things easier.
 
@@ -22,6 +22,7 @@ More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) �
 
  - **C#**: so, I decided to start learning C# and dotnet some weeks ago. Sooner I will start developing something to put what I've learned to proof and to learn new things, of course.
  - **AI** 🤖 : I'm taking my first steps into artificial intelligence with IBM on Coursera.
+ - **ReactJS**: I have a good NodeJS knowledge so I decided to start learning some frameworks. I'm starting with React.
 
 ### Some projects 📂
 
