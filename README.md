@@ -4,6 +4,7 @@ Hi, I'm Pedro. I'm currently a student at Universidade Federal do ABC (UFABC), i
 
  - 🚴 cycling;
  - 💻 programming;
+ - 🎮 gaming;
  - 🤖 AI (though I'm new to it);
  - 🗺️ language learning;
 
@@ -36,8 +37,9 @@ I'm looking to collaborate on OSS projects that are related to data science, k8s
 
 ### Reach me 🚩
 
- - [LinkedIn](https://www.linkedin.com/in/pedro-freidinger/)
- - Mail to: pedrotersetti3@gmail.com
+ - :globe_with_meridians: [LinkedIn](https://www.linkedin.com/in/pedro-freidinger/)
+ - 📧 Mail to: pedrotersetti3@gmail.com
+ - 🎮 Xbox/Steam: pedroter7 
 
 <!--
 **pedroter7/pedroter7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
