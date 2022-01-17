@@ -23,6 +23,7 @@ More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) �
  - **C#**: so, I decided to start learning C# and dotnet some weeks ago. Sooner I will start developing something to put what I've learned to proof and to learn new things, of course.
  - **AI** 🤖 : I'm taking my first steps into artificial intelligence with IBM on Coursera.
  - **ReactJS**: I have a good NodeJS knowledge so I decided to start learning some frameworks. I'm starting with React.
+ - **Java Spring**: I started to play around building RESTful APIs to learn more about the Spring framework.
 
 ### Some projects 📂
 
