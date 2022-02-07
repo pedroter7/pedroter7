@@ -22,7 +22,7 @@ More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) �
 
  - **C#**: so, I decided to start learning C# and dotnet some weeks ago. Sooner I will start developing something to put what I've learned to proof and to learn new things, of course.
  - **AI** 🤖 : I'm taking my first steps into artificial intelligence with IBM on Coursera.
- - **ReactJS**: I have a good NodeJS knowledge so I decided to start learning some frameworks. I'm starting with React.
+ - **ReactJS**: Currently building [a game](https://github.com/pedroter7/reactive-floating-point-game) using React. Building the game just for fun and for putting what I have learned into practice.
  - **Java Spring**: I started to play around building RESTful APIs to learn more about the Spring framework.
 
 ### Some projects 📂
