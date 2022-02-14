@@ -22,11 +22,11 @@ More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) �
 
  - **C#**: so, I decided to start learning C# and dotnet some weeks ago. Sooner I will start developing something to put what I've learned to proof and to learn new things, of course.
  - **AI** 🤖 : I'm taking my first steps into artificial intelligence with IBM on Coursera.
- - **ReactJS**: Currently building [a game](https://github.com/pedroter7/reactive-floating-point-game) using React. Building the game just for fun and for putting what I have learned into practice.
  - **Java Spring**: I started to play around building RESTful APIs to learn more about the Spring framework.
 
 ### Some projects 📂
 
+ - [Reactive Floating Point Game](https://github.com/pedroter7/reactive-floating-point-game): this is my most recent project. I developed a simple game based on the Flappy Bird game using React in order to put into practice what I have learned.
  - On a daily basis I need to write scripts to do something for me. I decided that I would put [the most useful scripts into a repository](https://github.com/pedroter7/useful_scripts).
  - [File-Genx](https://github.com/pedroter7/file-genx) is not a big deal but I like it because it is my first project using Python that involved building a desktop GUI. Recently I quickly developed a CLI-only version that was handy when I needed to test a file-transfering software.
  - [My Note](https://github.com/pedroter7/mynote) is the product of some experimentation with Gtkmm, building GUIs and writing multi-platform desktop apps with C++. It's very simple and lacks some functionality, but I like it 😛
