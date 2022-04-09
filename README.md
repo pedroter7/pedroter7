@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Pedro. I'm currently a student at Universidade Federal do ABC (UFABC), in Brazil. Some things that I really like:
+Hi, I'm Pedro. Currently working as Software Developer Intern and majoring in Computer Science @ Universidade Federal do ABC. Some things that I really like:
 
  - 🚴 cycling;
  - 💻 programming;
@@ -8,21 +8,13 @@ Hi, I'm Pedro. I'm currently a student at Universidade Federal do ABC (UFABC), i
  - 🤖 AI (though I'm new to it);
  - 🗺️ language learning;
 
-I speak 🇧🇷 Portuguese, 🇬🇧 English, 🇭🇺 Hungarian and a little bit of 🇩🇪 German.
-
-I also have some knowledge with planning and mantaining RESTful APIs, API security and IDM, Kubernetes, Docker, GCP and IBM cloud.
+I speak 🇧🇷 Portuguese, 🇬🇧 English, 🇭🇺 Hungarian, :es: and a little bit of 🇩🇪 German.
 
 More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) 😃
 
 ### What am I currently working on? 🧰
 
  - A [Java library to encapsulate digital/graphical units](https://github.com/pedroter7/digital-units): recently I've worked in a few projects where dealing with units in Strings were a constant need so I decided that I would write a small library to make things easier.
-
-### What am I currently focused on learning? 📚
-
- - **C#**: so, I decided to start learning C# and dotnet some weeks ago. Sooner I will start developing something to put what I've learned to proof and to learn new things, of course.
- - **AI** 🤖 : I'm taking my first steps into artificial intelligence with IBM on Coursera.
- - **Java Spring**: I started to play around building RESTful APIs to learn more about the Spring framework.
 
 ### Some projects 📂
 
