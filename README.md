@@ -8,7 +8,7 @@ Hi, I'm Pedro. Currently working as Software Developer Intern and majoring in Co
  - 🤖 AI (though I'm new to it);
  - 🗺️ language learning;
 
-I speak 🇧🇷 Portuguese, 🇬🇧 English, 🇭🇺 Hungarian, :es: and a little bit of 🇩🇪 German.
+I speak 🇧🇷 Portuguese, 🇬🇧 English, 🇭🇺 Hungarian, :es: Spanish and a little bit of 🇩🇪 German.
 
 More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) 😃
 
