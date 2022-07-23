@@ -27,7 +27,7 @@ More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) ðŸ
 
 All my projects are always open to collaboration.
 
-I'm looking to collaborate on OSS projects that are related to data science, k8s, machine learning, automation... My favorite languages are C++, Java and Python. I like mobile development too.
+I'm looking to collaborate on OSS projects that are related to data science, k8s, machine learning, automation... My favorite languages are C#, JS/TS, Java and Python. I like mobile development too.
 
 ### Reach me ðŸš©
 
