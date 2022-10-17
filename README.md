@@ -8,16 +8,13 @@ Hi, I'm Pedro. Currently working as Software Developer Intern and majoring in Co
  - 🤖 AI (though I'm new to it);
  - 🗺️ language learning;
 
-I speak 🇧🇷 Portuguese, 🇬🇧 English, 🇭🇺 Hungarian, :es: Spanish and a little bit of 🇩🇪 German.
+I speak Portuguese, English, Hungarian, Spanish and a little bit of German and French.
 
 More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) 😃
 
-### What am I currently working on? 🧰
-
- - A [Java library to encapsulate digital/graphical units](https://github.com/pedroter7/digital-units): recently I've worked in a few projects where dealing with units in Strings were a constant need so I decided that I would write a small library to make things easier.
-
 ### Some projects 📂
 
+ - A [Java library to encapsulate digital/graphical units](https://github.com/pedroter7/digital-units): decided to build this library in order to improve my Java knowledge.
  - [Reactive Floating Point Game](https://github.com/pedroter7/reactive-floating-point-game): this is my most recent project. I developed a simple game based on the Flappy Bird game using React in order to put into practice what I have learned.
  - On a daily basis I need to write scripts to do something for me. I decided that I would put [the most useful scripts into a repository](https://github.com/pedroter7/useful_scripts).
  - [File-Genx](https://github.com/pedroter7/file-genx) is not a big deal but I like it because it is my first project using Python that involved building a desktop GUI. Recently I quickly developed a CLI-only version that was handy when I needed to test a file-transfering software.
