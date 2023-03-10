@@ -1,20 +1,21 @@
 ### Hi there 👋
 
-Hi, I'm Pedro. Currently working as Software Developer Intern and majoring in Computer Science @ Universidade Federal do ABC. Some things that I really like:
+Hi, I'm Pedro. This is my GitHub profile, you can visit my personal portfolio [here](https://pedroter7.github.io/portfolio/). I'm currently working as Software Engineering Intern and majoring in Computer Science @ Universidade Federal do ABC. Some things that I really like:
 
  - 🚴 cycling;
  - 💻 programming;
  - 🎮 gaming;
- - 🤖 AI (though I'm new to it);
+ - 🤖 AI;
  - 🗺️ language learning;
+ - 📖 Reading & 📝 writing;
 
-I speak Portuguese, English, Hungarian, Spanish and a little bit of German and French.
+I speak Portuguese, English, some Spanish, some Hungarian and a little bit of German and French.
 
 More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) 😃
 
 ### Some projects 📂
 
- - A [Java library to encapsulate digital/graphical units](https://github.com/pedroter7/digital-units): decided to build this library in order to improve my Java knowledge.
+ - [My personal portfolio]([https://github.com/pedroter7/portfolio](https://pedroter7.github.io/portfolio/)): this is my welcome card. I developed it using React and Material UI library. You can see the source code [here](https://github.com/pedroter7/portfolio).
  - [Reactive Floating Point Game](https://github.com/pedroter7/reactive-floating-point-game): this is my most recent project. I developed a simple game based on the Flappy Bird game using React in order to put into practice what I have learned.
  - On a daily basis I need to write scripts to do something for me. I decided that I would put [the most useful scripts into a repository](https://github.com/pedroter7/useful_scripts).
  - [File-Genx](https://github.com/pedroter7/file-genx) is not a big deal but I like it because it is my first project using Python that involved building a desktop GUI. Recently I quickly developed a CLI-only version that was handy when I needed to test a file-transfering software.
@@ -28,7 +29,7 @@ I'm looking to collaborate on OSS projects that are related to data science, k8s
 
 ### Reach me 🚩
 
- - :globe_with_meridians: [LinkedIn](https://www.linkedin.com/in/pedro-freidinger/)
+ - 🌐 [LinkedIn](https://www.linkedin.com/in/pedro-freidinger/)
  - 📧 Mail to: pedrotersetti3@gmail.com
  - 🎮 Xbox/Steam: pedroter7 
 
