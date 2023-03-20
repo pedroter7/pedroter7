@@ -15,7 +15,7 @@ More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) ðŸ
 
 ### Some projects ðŸ“‚
 
- - [My personal portfolio]([https://github.com/pedroter7/portfolio](https://pedroter7.github.io/portfolio/)): this is my welcome card. I developed it using React and Material UI library. You can see the source code [here](https://github.com/pedroter7/portfolio).
+ - [My personal portfolio]([https://github.com/pedroter7/portfolio](https://pedroter7.github.io/portfolio/)): this is my welcome card. I developed it using React and Material UI library. The project also feats a simple CI/CD pipeline using GitHub workflows. You can see the source code [here](https://github.com/pedroter7/portfolio).
  - [Reactive Floating Point Game](https://github.com/pedroter7/reactive-floating-point-game): this is my most recent project. I developed a simple game based on the Flappy Bird game using React in order to put into practice what I have learned.
  - On a daily basis I need to write scripts to do something for me. I decided that I would put [the most useful scripts into a repository](https://github.com/pedroter7/useful_scripts).
  - [File-Genx](https://github.com/pedroter7/file-genx) is not a big deal but I like it because it is my first project using Python that involved building a desktop GUI. Recently I quickly developed a CLI-only version that was handy when I needed to test a file-transfering software.
