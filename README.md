@@ -11,7 +11,7 @@ Hi, I'm Pedro. This is my GitHub profile, you can visit my personal portfolio [h
 
 I speak Portuguese, English, some Spanish, some Hungarian and a little bit of German and French.
 
-More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) 😃
+More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) or my [portfolio website](https://pedroter7.github.io/portfolio/) 😃
 
 ### Some projects 📂
 
