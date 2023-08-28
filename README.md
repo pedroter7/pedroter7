@@ -15,6 +15,7 @@ More info? Visit [my LinkedIn](https://www.linkedin.com/in/pedro-freidinger/) or
 
 ### Some projects 📂
 
+ - [AspNetBasicAuth](https://www.nuget.org/packages/PedroTer7.AspNetBasicAuth): open source library to perform basic authentication in ASP.NET core applications. The source code is available [here](https://github.com/pedroter7/AspNetBasicAuth).
  - [My personal portfolio](https://pedroter7.github.io/portfolio/): this is my welcome card. I developed it using React and Material UI library. The project also feats a simple CI/CD pipeline using GitHub workflows. You can see the source code [here](https://github.com/pedroter7/portfolio).
  - [MagicShelfApi](https://github.com/pedroter7/MagicShelfApi): a public API written in aspnet core that allows anyone to store objects in a virtual shelf, leave comments about those objects and remove objects from the shelf retrieving the object's data.
 
